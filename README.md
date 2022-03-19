@@ -1,7 +1,8 @@
 
   
 ### Hi there! 👋 I'm Marcin. 👨‍💻
-A junior front-end developer (maybe) from Wiewiórka, Poland. Check out my [portfolio](https://marcin-niedbalec.vercel.app/)!
+Junior front-end developer from Wiewiórka, Poland. 
+Check out my [portfolio](https://marcin-niedbalec.vercel.app/)!
 - 🌐 https://www.marcinniedbalec.xyz/
 <br/> <br/>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-niedbalec-08a786215/)
