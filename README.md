@@ -2,7 +2,7 @@
   
 # Hi there! 👋 I'm Marcin. 👨‍💻
 #### 👉 I'm currently looking for a job as a Junior Front-End Developer.
-#### 🧾 Check out my [portfolio](https://marcin-niedbalec.vercel.app/portfolio) or visit my website by clicking the link down below.
+#### 🧾 Check out my [portfolio](https://marcin-niedbalec.vercel.app/portfolio)!
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
