@@ -1,7 +1,7 @@
 
   
 # Hi there! 👋 I'm Marcin. 👨‍💻
-#### 👉 I'm currently looking for a job as a Junior Front-End Developer.
+#### 👉 I'm currently working as Junior React Front-end Developer.
 #### 🧾 Check out my [portfolio](https://marcin-niedbalec.vercel.app/portfolio)!
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
@@ -13,12 +13,10 @@
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)	
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
 
 #### 📖 In progress
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
