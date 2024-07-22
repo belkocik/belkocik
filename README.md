@@ -1,7 +1,7 @@
 
   
 # Hi there! 👋 I'm Marcin. 👨‍💻
-#### 👉 I'm currently working as a Junior React Front-end Developer.
+#### 👉 I work as a Junior React Front-end Developer.
 #### 🧾 Check out my [portfolio](https://marcin-niedbalec.vercel.app/portfolio)!
 
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
