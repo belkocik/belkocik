@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Marcin. 👨‍💻
-#### 👉 I work as a Full-Stack Developer.
+#### 👉 I work as a JavaScript Developer.
 
 ---
 
